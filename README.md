@@ -1,0 +1,2 @@
+# AbilitySpectrum.github.io
+generic
